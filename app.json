@@ -1,5 +1,5 @@
 {
-  "name": "VCPlayBot",
+  "name": "Kyy Project",
   "logo": "https://telegra.ph/file/7ffa8d18b9b7f1b51a81e.jpg",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
@@ -50,7 +50,7 @@
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/9b13ea3ce046a1a5c8098.png"
+      "value": "https://telegra.ph/file/faba3392dd1a4a9217328.png"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
